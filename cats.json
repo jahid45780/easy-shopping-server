@@ -1,0 +1,32 @@
+[
+  {
+    "id": "69afbf05f083c53090a6e4c1",
+    "name": "Home & Living",
+    "slug": "home-living"
+  },
+  {
+    "id": "69afbf05f083c53090a6e4bd",
+    "name": "Fashion",
+    "slug": "fashion"
+  },
+  {
+    "id": "69afbf05f083c53090a6e4be",
+    "name": "Electronics",
+    "slug": "electronics"
+  },
+  {
+    "id": "69afbf05f083c53090a6e4c0",
+    "name": "Accessories",
+    "slug": "accessories"
+  },
+  {
+    "id": "69afbf05f083c53090a6e4bf",
+    "name": "Shoes",
+    "slug": "shoes"
+  },
+  {
+    "id": "69afbf05f083c53090a6e4c2",
+    "name": "Sports",
+    "slug": "sports"
+  }
+]
