@@ -1,6 +1,6 @@
 easy-shopping__Server
 
-Backend API for **Shohoz Kitchen** — a multi-vendor e-commerce marketplace.
+Backend API for  — a multi-vendor e-commerce marketplace.
 
 Built with **Express**, **TypeScript**, **MongoDB / Mongoose**, JWT auth, and Cloudinary uploads.
 
